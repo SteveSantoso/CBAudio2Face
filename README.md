@@ -1,0 +1,2 @@
+# CBAudio2Face
+用于ue控制Audio2face,通过HTTP请求与Audio2Face服务通信，提供面部动画控制、音频播放和表情设置等功能
