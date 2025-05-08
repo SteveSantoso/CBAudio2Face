@@ -57,5 +57,7 @@ CBAudio2Face是一个基于Unreal Engine 5.4的插件，用于控制Audio2Face�
 - 确保USD文件路径正确
 - 音频文件需放置在指定目录
 
+## 工程案例
+- 百度网盘地址：https://pan.baidu.com/s/1whPPX400t28-T7MQ-czZeQ?pwd=jd2c 提取码: jd2c 
 ## 官方文档
 - [NVIDIA Audio2Face 官方文档](https://docs.omniverse.nvidia.com/audio2face/latest/overview.html)
